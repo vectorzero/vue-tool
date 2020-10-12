@@ -1,4 +1,4 @@
-# yjt-tool
+# vue-tool
 
 ## Project setup
 ```
